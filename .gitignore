@@ -23,3 +23,5 @@ tramp
 /auto/
 # cask packages
 .cask/
+#.gitignore#
+.#.gitignore
